@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/SonarCubeEx1/SaaniaDemo/src/java/com/college/controller/PRNServlet.java</file>
+        <file>file:/D:/SonarCubeEx1/SaaniaDemo/web/WEB-INF/web.xml</file>
+        <file>file:/D:/SonarCubeEx1/SaaniaDemo/web/META-INF/context.xml</file>
+        <file>file:/D:/SonarCubeEx1/SaaniaDemo/src/java/com/college/config/SingletonDBConnection.java</file>
+        <file>file:/D:/SonarCubeEx1/SaaniaDemo/src/java/com/college/service/PRNService.java</file>
+        <file>file:/D:/SonarCubeEx1/SaaniaDemo/src/java/com/college/dao/PRNDao.java</file>
+        <file>file:/D:/SonarCubeEx1/SaaniaDemo/src/java/com/college/entity/StudentDetails.java</file>
+        <file>file:/D:/SonarCubeEx1/SaaniaDemo/web/index.jsp</file>
+        <file>file:/D:/SonarCubeEx1/SaaniaDemo/web/prnResult.jsp</file>
+    </open-files>
+</project-private>
